@@ -1,4 +1,4 @@
-// Nested loop
+// Nested while loop
 
 public class P09 {
 
