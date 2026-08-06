@@ -1,4 +1,4 @@
-//Break using nested for loop
+//Break using Nested for loop
 
 public class P14 {
 
@@ -8,7 +8,7 @@ public class P14 {
                 if (j == 2) {
                     break;
                 }
-                System.out.println("i:" + i + " j:" + j);
+                System.out.println("i: " + i + " " + " j:" + j);
             }
         }
     }
