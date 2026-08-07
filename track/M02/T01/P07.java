@@ -1,4 +1,4 @@
-//Print and Println
+// Print and Println
 
 public class P07 {
 
