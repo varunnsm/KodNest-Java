@@ -1,4 +1,4 @@
-//Calculate Simple Interest, BMI and Mark Percentage
+// Calculate Simple Interest, BMI and Mark Percentage (Simple Interest, BMI, Marks % Program)
 
 public class P05 {
 
