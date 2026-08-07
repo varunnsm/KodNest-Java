@@ -1,4 +1,4 @@
-//Covert a Weekly Preparation Plan to Java
+//Covert a Weekly Preparation Plan to Java (Convert Pseudocode to Java)
 
 public class P02 {
 
