@@ -1,4 +1,4 @@
-//Creating a Java Program to Display a Message.
+//Creating a Java Program to Display a Message
 
 public class P01 {
 
