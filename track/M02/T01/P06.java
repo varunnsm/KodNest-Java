@@ -1,4 +1,4 @@
-//Build a Weekly Learning Progress Report
+// Build a Weekly Learning Progress Report (Practice Problems: Variables, casting, opertors)
 
 public class P06 {
 
@@ -9,7 +9,7 @@ public class P06 {
         int learningDays = 5;
 
         int remainingTopics = totalTopics - completedTopics;
-        int weeklyLearningHours = dailyLearningHours * 5;
+        int weeklyLearningHours = dailyLearningHours * learningDays;
         double progressPercentage = completedTopics * 100 / totalTopics;
 
         System.out.println("Completed Topics: " + completedTopics);
