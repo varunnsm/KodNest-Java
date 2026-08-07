@@ -1,4 +1,4 @@
-// Else if
+// Else if (if, else-if, else)
 
 public class P01 {
 
