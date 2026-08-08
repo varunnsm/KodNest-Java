@@ -1,4 +1,4 @@
-//Switch Statement
+// Switch Statement
 
 public class P04 {
 
