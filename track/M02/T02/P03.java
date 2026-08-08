@@ -1,4 +1,4 @@
-//Placement Eligibility Checker
+// Placement Eligibility Checker
 
 public class P03 {
 
@@ -11,6 +11,6 @@ public class P03 {
         boolean attendanceEligible = attendance >= 75;
         boolean academicEligible = markEligible && attendanceEligible;
         boolean placementEligible = academicEligible && projectCompleted;
-        System.err.println("Placement Eligible: " + placementEligible);
+        System.out.println("Placement Eligible: " + placementEligible);
     }
 }
