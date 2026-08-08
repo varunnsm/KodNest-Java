@@ -1,4 +1,4 @@
-// Scanner String Input
+//Scanner String Input
 
 import java.util.Scanner;
 
