@@ -15,7 +15,7 @@ class student {
     }
 }
 
-class P01 {
+public class P01 {
 
     public static void main(String[] args) {
         student s1 = new student();
