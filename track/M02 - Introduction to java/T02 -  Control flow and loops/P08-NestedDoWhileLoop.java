@@ -1,6 +1,6 @@
 //Nested do-while loop
 
-public class P11 {
+public class NestedDoWhileLoop {
 
     public static void main(String[] args) {
         int i = 1;
