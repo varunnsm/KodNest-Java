@@ -1,6 +1,6 @@
-// Labeled loops using Break (Loop Problems)
+// Labeled loops using Break
 
-public class LoopProblems {
+public class LabeledLoopsUsingBreak {
 
     public static void main(String[] args) {
         outer:
