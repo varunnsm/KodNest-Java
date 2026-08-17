@@ -1,6 +1,6 @@
 // Complete Java Conversions (Int-Double Conversion and Casting)
 
-public class P04 {
+public class IntDoubleConversionAndCasting {
 
     public static void main(String[] args) {
         int completedProblems = 27;
