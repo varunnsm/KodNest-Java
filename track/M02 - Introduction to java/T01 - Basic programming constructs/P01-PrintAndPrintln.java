@@ -1,6 +1,6 @@
 // Print and Println
 
-public class P07 {
+public class PrintAndPrintln {
 
     public static void main(String[] args) {
         System.out.println("Monday");
