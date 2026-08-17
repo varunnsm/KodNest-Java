@@ -1,6 +1,6 @@
 // Calculate Simple Interest, BMI and Mark Percentage (Simple Interest, BMI, Marks % Program)
 
-public class P05 {
+public class simpleInterestBMIMarksPercentageProgram {
 
     public static void main(String[] args) {
         double Principal = 10000.0;
