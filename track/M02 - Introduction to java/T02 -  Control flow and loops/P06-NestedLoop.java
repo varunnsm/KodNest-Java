@@ -1,6 +1,6 @@
 // Nested loop
 
-public class P09 {
+public class NestedLoop {
 
     public static void main(String[] args) {
         int n = 5;
