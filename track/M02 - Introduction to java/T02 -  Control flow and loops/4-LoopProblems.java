@@ -1,6 +1,6 @@
-//Print and Add Selected Numbers
+//Print and Add Selected Numbers (Loop Problems)
 
-public class PrintAndAddSelectedNumbers {
+public class LoopProblems {
 
     public static void main(String[] args) {
         int total = 0;
