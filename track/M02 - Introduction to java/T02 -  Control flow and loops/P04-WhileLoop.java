@@ -1,4 +1,4 @@
-// While loop(print 1 to 5)
+// While loop (print 1 to 5)
 
 public class WhileLoop {
 
