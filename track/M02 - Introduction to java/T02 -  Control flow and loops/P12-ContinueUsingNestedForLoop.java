@@ -1,6 +1,6 @@
 //Continue using nested for loop
 
-public class P15 {
+public class ContinueUsingNestedForLoop {
 
     public static void main(String[] args) {
         for (int i = 1; i <= 3; i++) {
