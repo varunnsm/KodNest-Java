@@ -1,6 +1,6 @@
 //Covert a Weekly Preparation Plan to Java (Convert Pseudocode to Java)
 
-public class P02 {
+public class convertPseudocodeToJava {
 
     public static void main(String[] args) {
         int javaHoursPerDay = 2;
