@@ -1,6 +1,6 @@
 // Placement Eligibility Checker
 
-public class P03 {
+public class PlacementEligibilityChecker {
 
     public static void main(String[] args) {
         int marks = 72;
