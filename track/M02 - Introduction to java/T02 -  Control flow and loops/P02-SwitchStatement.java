@@ -1,6 +1,6 @@
 // Switch Statement
 
-public class P04 {
+public class SwitchStatement {
 
     public static void main(String[] args) {
         int day = 6;
