@@ -1,6 +1,6 @@
-//if-else to switch
+// if-else to switch
 
-public class P05 {
+public class ifElseToSwitch {
 
     public static void main(String[] args) {
         int day = 6;
