@@ -1,6 +1,6 @@
 //Nested while loop
 
-public class P10 {
+public class NestedWhileLoop {
 
     public static void main(String[] args) {
         int i = 1;
