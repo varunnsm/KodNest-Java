@@ -1,6 +1,6 @@
 //Break using Nested for loop
 
-public class P14 {
+public class BreakUsingNestedForLoop {
 
     public static void main(String[] args) {
         for (int i = 1; i <= 3; i++) {
