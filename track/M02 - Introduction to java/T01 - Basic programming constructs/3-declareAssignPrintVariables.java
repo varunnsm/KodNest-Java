@@ -1,6 +1,6 @@
 // Build Salman Learner Profile (Declare, Assign, Print Variables)
 
-public class P03 {
+public class declareAssignPrintVariables {
 
     public static void main(String[] args) {
         String learnerName = "Salman";
