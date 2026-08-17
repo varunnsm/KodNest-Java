@@ -1,6 +1,6 @@
 //Print and Add Selected Numbers
 
-public class P17 {
+public class PrintAndAddSelectedNumbers {
 
     public static void main(String[] args) {
         int total = 0;
