@@ -1,6 +1,6 @@
 // Conditional Problems
 
-public class P02 {
+public class ConditionalProblems {
 
     public static void main(String[] args) {
         int number = -7;
