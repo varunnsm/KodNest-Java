@@ -1,6 +1,6 @@
 //Placement Readiness Practice (Control Flow Practice)
 
-public class P18 {
+public class ControlFlowPractice {
 
     public static void main(String[] args) {
         int marks = 68;
