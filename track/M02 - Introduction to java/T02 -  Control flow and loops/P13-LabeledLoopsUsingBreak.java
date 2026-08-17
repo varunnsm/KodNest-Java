@@ -1,6 +1,6 @@
 //Labeled loops using Break
 
-public class P16 {
+public class LabeledLoopsUsingBreak {
 
     public static void main(String[] args) {
         outer:
