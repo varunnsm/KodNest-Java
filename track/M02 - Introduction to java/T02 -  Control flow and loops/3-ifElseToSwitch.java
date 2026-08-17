@@ -1,6 +1,6 @@
 // if-else to switch
 
-public class ifElseToSwitch {
+public class IfElseToSwitch {
 
     public static void main(String[] args) {
         int day = 6;

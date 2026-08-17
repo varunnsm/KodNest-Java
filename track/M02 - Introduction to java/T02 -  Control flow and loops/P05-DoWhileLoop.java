@@ -1,6 +1,6 @@
 // do while loop(print 1 to 5)
 
-public class P08 {
+public class DoWhileLoop {
 
     public static void main(String[] args) {
         int i = 1;
