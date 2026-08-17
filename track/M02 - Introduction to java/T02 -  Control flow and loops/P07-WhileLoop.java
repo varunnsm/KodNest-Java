@@ -1,6 +1,6 @@
 // While loop(print 1 to 5)
 
-public class P07 {
+public class WhileLoop {
 
     public static void main(String[] args) {
         int i = 1;
