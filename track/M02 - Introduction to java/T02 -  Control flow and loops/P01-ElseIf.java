@@ -1,6 +1,6 @@
 // Else if (if, else-if, else)
 
-public class P01 {
+public class ElseIf {
 
     public static void main(String[] args) {
         int num = 25;
