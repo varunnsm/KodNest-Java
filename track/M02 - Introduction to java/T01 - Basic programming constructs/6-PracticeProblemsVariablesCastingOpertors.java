@@ -1,6 +1,6 @@
 // Build a Weekly Learning Progress Report (Practice Problems: Variables, casting, opertors)
 
-public class P06 {
+public class PracticeProblemsVariablesCastingOpertors {
 
     public static void main(String[] args) {
         int completedTopics = 17;
