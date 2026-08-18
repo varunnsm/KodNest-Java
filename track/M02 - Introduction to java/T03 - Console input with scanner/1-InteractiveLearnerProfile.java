@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class P03 {
+public class InteractiveLearnerProfile {
 
     public static void main(String[] args) {
 
