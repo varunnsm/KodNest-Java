@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class P05 {
+public class PersonalExpenseCalculator {
 
     public static void main(String[] args) {
 
