@@ -1,8 +1,8 @@
-// Scanner
+// Scanner Variables
 
 import java.util.Scanner;
 
-public class P01 {
+public class ScannerVariables {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
