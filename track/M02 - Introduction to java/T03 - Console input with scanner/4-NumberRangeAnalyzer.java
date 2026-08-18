@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class P06 {
+public class NumberRangeAnalyzer {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
