@@ -29,6 +29,8 @@ public class InteractiveLearnerProgressSummary {
 
         if (dailyAverage >= 5) {
             System.out.println("Consistent");
+        } else {
+            System.out.println("Need Consistency");
         }
     }
 }
