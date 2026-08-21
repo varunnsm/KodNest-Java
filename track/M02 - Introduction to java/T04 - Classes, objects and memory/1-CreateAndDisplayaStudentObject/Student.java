@@ -1,3 +1,4 @@
+// class
 
 class Student {
 // Declare id, name, course and javaScore
