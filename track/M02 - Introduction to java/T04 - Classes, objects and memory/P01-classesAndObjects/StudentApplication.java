@@ -1,24 +1,9 @@
-// Classes and Objects
+// object
 
-class student {
-
-    int roll;
-    String name;
-    double height;
-
-    void run() {
-        System.out.println("running");
-    }
-
-    void sleep() {
-        System.out.println("sleeping");
-    }
-}
-
-public class P01 {
+public class StudentApplication {
 
     public static void main(String[] args) {
-        student s1 = new student();
+        Student s1 = new Student();
         s1.roll = 1;
         s1.name = "Varun";
         s1.height = 6.0;
