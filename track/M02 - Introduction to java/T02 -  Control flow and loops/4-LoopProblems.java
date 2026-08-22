@@ -1,4 +1,4 @@
-//Print and Add Selected Numbers (Loop Problems)
+//Loop Problems(Print and Add Selected Numbers)
 
 public class LoopProblems {
 
