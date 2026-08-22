@@ -1,4 +1,4 @@
-// Build a Weekly Learning Progress Report (Practice Problems: Variables, casting, opertors)
+//Practice Problems: Variables, casting, opertors(Build a Weekly Learning Progress Report)
 
 public class PracticeProblemsVariablesCastingOpertors {
 
