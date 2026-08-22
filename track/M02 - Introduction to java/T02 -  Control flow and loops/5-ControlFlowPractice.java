@@ -1,4 +1,4 @@
-//Placement Readiness Practice (Control Flow Practice)
+//Control Flow Practice(Placement Readiness Practice)
 
 public class ControlFlowPractice {
 
@@ -10,6 +10,7 @@ public class ControlFlowPractice {
         // Write your code here
         String result = (marks >= 60 && attendance >= 75) ? "Placement Ready" : "Continue Prepartion";
         System.out.println(result);
+
         for (int i = 1; i <= practiceDays; i++) {
             System.out.println("Practice Day: " + i);
         }
