@@ -1,4 +1,4 @@
-// Complete Java Conversions (Int-Double Conversion and Casting)
+//Int-Double Conversion and Casting(Complete Java Conversions)
 
 public class IntDoubleConversionAndCasting {
 
