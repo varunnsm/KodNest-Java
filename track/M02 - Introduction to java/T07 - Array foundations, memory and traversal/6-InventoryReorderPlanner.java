@@ -1,0 +1,21 @@
+
+public class Main {
+
+    public static void main(String[] args) {
+        // Write your code here.
+        int arr[] = {4, 12, 2, 9, 5};
+        int reorderLevel = 5;
+
+        int reorderCount = 0;
+
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i] <= reorderLevel) {
+                reorderCount++;
+
+            }
+        }
+
+        System.out.println("Items to reorder: " + reorderCount);
+
+    }
+}
