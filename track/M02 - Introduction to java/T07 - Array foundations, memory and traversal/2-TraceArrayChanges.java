@@ -1,5 +1,5 @@
 
-public class Main {
+public class TraceArrayChanges {
 
     public static void main(String[] args) {
         int[] original = {14, 18, 22, 26};
