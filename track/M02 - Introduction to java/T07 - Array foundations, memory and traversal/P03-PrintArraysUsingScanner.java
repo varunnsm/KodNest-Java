@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-public class program1 {
+public class PrintArraysUsingScanner {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
