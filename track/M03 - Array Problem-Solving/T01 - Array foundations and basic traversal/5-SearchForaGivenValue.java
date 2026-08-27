@@ -14,13 +14,14 @@ public class SearchForaGivenValue {
         }
 
         int target = scanner.nextInt();
+        int answer = -1;
 
         for (int i = 0; i < size; i++) {
             if (arr[i] == target) {
-                System.out.println(i);
+                answer = i;
                 break;
             }
         }
-        scanner.close();
+        System.out.println(answer);
     }
 }
