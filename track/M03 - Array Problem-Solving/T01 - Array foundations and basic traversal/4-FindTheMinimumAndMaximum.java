@@ -1,0 +1,33 @@
+
+import java.util.*;
+
+public class FindTheMinimumAndMaximum {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        // Read the input and complete the array logic.
+        int size = scanner.nextInt();
+        int arr[] = new int[size];
+        for (int i = 0; i < size; i++) {
+            arr[i] = scanner.nextInt();
+        }
+
+        int max = arr[0];
+        for (int i = 0; i < size; i++) {
+            if (arr[i] > max) {
+                max = arr[i];
+            }
+        }
+
+        int min = arr[0];
+        for (int i = 0; i < size; i++) {
+            if (arr[i] < min) {
+                min = arr[i];
+            }
+        }
+        System.out.print(min + " " + max);
+
+        scanner.close();
+    }
+}
