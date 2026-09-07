@@ -1,3 +1,4 @@
+// String Pooling (==)
 
 public class P01 {
 
@@ -6,9 +7,9 @@ public class P01 {
         String s2 = "Java";
 
         if (s1 == s2) {
-            System.out.println("Ref are Equal");
+            System.out.println("Reference are Equal");
         } else {
-            System.out.println("Ref are Not Equal");
+            System.out.println("Reference are Not Equal");
         }
     }
 }
