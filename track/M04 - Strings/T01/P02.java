@@ -1,3 +1,4 @@
+// new String() comparison
 
 public class P02 {
 
