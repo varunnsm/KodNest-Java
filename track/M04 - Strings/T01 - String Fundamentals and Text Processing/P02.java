@@ -1,4 +1,4 @@
-// new String() comparison
+// new String() comparison using ==
 
 public class P02 {
 
